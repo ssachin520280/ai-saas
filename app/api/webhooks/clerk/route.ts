@@ -9,7 +9,7 @@ import { createUser, deleteUser, updateUser } from "@/lib/actions/user.actions";
 
 export async function POST(req: Request) {
   // You can find this in the Clerk Dashboard -> Webhooks -> choose the webhook
-  console.log("reached in POST funtion of cler route")
+  console.log("reached in POST funtion of clerk route")
   const WEBHOOK_SECRET = process.env.WEBHOOK_SECRET;
 
   if (!WEBHOOK_SECRET) {

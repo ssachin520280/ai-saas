@@ -1,5 +1,7 @@
 # Imaginify
 
+<a href="https://ai-saas-beta-two.vercel.app/" name="live-demo">🌐 Live Demo</a>
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -59,5 +61,3 @@ Running the Project: npm run dev
 
 <a href="https://ai-saas-beta-two.vercel.app/" name="live-demo">🌐 Live Demo</a>
 Check out the live demo of Imaginify here
-
-Feel free to customize this README file further to fit the specific needs and details of your project. Happy coding! 🚀
